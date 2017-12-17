@@ -1,0 +1,7 @@
+
+.App {
+  margin: 100px; 
+}
+.App .checked {
+  text-decoration: line-through;
+}
